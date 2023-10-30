@@ -1,4 +1,5 @@
-# [Numele Tău]
+# [Numele Tău] 
+![total station image](/assses/img/geodezie_uni)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
