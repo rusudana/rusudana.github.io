@@ -1,5 +1,5 @@
 # [Numele Tău] 
-![total station image](/asssets/img/geodezie_uni.jpg)
+![total station image](/assets/img/geodezie_uni.jpg)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
