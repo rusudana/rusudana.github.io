@@ -1,5 +1,5 @@
 Uite cateva informati suplimentare despre mine:
-_ imi plac pisicile
-_ imi plac pastele
-_ urasc romana <3
+- imi plac pisicile
+- imi plac pastele
+- urasc romana <3
 [homepage](index.md)
